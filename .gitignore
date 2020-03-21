@@ -1,6 +1,6 @@
 **.log
 **.pub
-**.id_rsa
+**/id_rsa
 **.tar.gz
 **.tar
 **.jar
