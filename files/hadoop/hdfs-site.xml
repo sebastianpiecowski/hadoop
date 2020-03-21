@@ -1,0 +1,14 @@
+<configuration>
+	<property>
+		<name>dfs.webhdfs.enabled</name>
+		<value>true</value>
+	</property>
+	<property>
+		<name>dfs.namenode.rpc-address</name>
+		<value>192.168.5.10:9000</value>
+	</property>
+    <property>
+	    <name>dfs.replication</name>
+	    <value>3</value>
+    </property>
+</configuration>
